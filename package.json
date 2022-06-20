@@ -1,0 +1,25 @@
+{
+  "name": "my-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmallFishCode/myKoa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "yu17879328848",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmallFishCode/myKoa/issues"
+  },
+  "homepage": "https://github.com/SmallFishCode/myKoa#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
